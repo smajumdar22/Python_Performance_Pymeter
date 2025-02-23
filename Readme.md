@@ -12,3 +12,5 @@ locust --host=https://example.com --users 50 --spawn-rate 5 --run-time 5m --head
 
 Credit -
 https://apipheny.io/free-api/
+
+Run - python run_locust.py
